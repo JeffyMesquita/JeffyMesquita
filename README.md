@@ -7,6 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffymesquita&layout=compact&langs_count=16&theme=react"/>
 </div>
   
+### Tecnologias que estou/pretendo estudar
   
 <div style="display: inline_block" ><br>
   <div style="ackground-color: rgba(255,255,255,0.3)" >
