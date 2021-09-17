@@ -32,7 +32,7 @@
     <img align="center" title="TypeScript" alt="Jeffy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" title="BootStrap" alt="Jeffy-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" title="Sass" alt="Jeffy-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" title="Styled Components" alt="Jeffy-Styled-Components" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" title="Styled Components" alt="Jeffy-Styled-Components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
     <img align="center" title="GraphQL" alt="Jeffy-Graphql" height="30" width="30" src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png">
     <img align="center" title="Google Cloud" alt="Jeffy-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
     <img align="center" title="Firebase" alt="Firebase" height="30" width="30" src="https://img.icons8.com/color/452/firebase.png">  
