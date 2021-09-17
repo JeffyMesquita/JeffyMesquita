@@ -20,7 +20,8 @@
     <img align="center" title="NodeJs" alt="Jeffy-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" title="Android" alt="Jeffy-Android" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
     <img align="center" title="IOS" alt="Jeffy-Ios" height="30" width="30" src="https://img.icons8.com/ios/452/ios-logo.png">
-    <img align="center" title="MySQL" alt="MySql" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">     
+    <img align="center" title="MySQL" alt="Jeffy-MySql" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">     
+    <img align="center" title="SQLServer" alt="Jeffy-SQLServer" height="35" width="35" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">    
     <img align="center" title="Visual Studio Code" alt="Jeffy-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" title="GitHub" alt="Jeffy-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
