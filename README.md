@@ -19,22 +19,6 @@
 <br>
 
 
-
-
-<br>
-
-<div>   
-  <a href="https://instagram.com/jeferson.mesquita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-  <a href="https://www.linkedin.com/in/jeferson-mesquita-763bb6b8/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jefejefe274227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:je_2742@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/jeffymesquita/jeffymesquita/blob/output/github-contribution-grid-snake.svg)
-
-  <img  src="https://github-profile-trophy.vercel.app/?username=jeffymesquita&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</div>
-
 <h2>Social</h2>
 <a href="https://www.github.com/jeffynesquita" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.linkedin.com/in/jeffymesquita.dev" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
@@ -60,6 +44,22 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeffymesquita&show_icons=true&theme=dark"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffymesquita&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffymesquita&layout=compact&theme=dark"/>
+
+<br>
+
+<div>   
+  <a href="https://instagram.com/jeferson.mesquita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/jeferson-mesquita-763bb6b8/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jefejefe274227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:je_2742@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/jeffymesquita/jeffymesquita/blob/output/github-contribution-grid-snake.svg)
+
+  <img  src="https://github-profile-trophy.vercel.app/?username=jeffymesquita&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</div>
+
+
 
 
 
