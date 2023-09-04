@@ -28,7 +28,7 @@
 <h2>Contact</h2>
 <a href="mailto:jefejefe274227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="mailto:je_2742@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-<a href="https://whatsa.me/5517991305254/?t=Ol%C3%A1%20Jeferson,%20Tudo%20bem?"><img src="https://img.shields.io/badge/Whatsapp%23333?style=for-the-badge&logo=whatsappk&logoColor=white" target="_blank"></a> 
+<a href="https://whatsa.me/5517991305254/?t=Ol%C3%A1%20Jeferson,%20Tudo%20bem?"><img src="[https://img.shields.io/badge/Whatsapp%23333?style=for-the-badge&logo=whatsappk&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" target="_blank"></a> 
 
 <h2>Skills</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
