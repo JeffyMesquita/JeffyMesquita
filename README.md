@@ -1,6 +1,6 @@
-# :desktop_computer: Olá, seja bem vindo ao meu Github! :hugs:
+#:desktop_computer: Olá, seja bem vindo ao meu Github! :hugs:
 
-<h1 align="center">👋 Hola, I'm Jeferson Mesquita</h1>
+<p align="center">👋 Hola, I'm Jeferson Mesquita</h1>
 
 - 🌍 I'm based in **Bebedouro - São Paulo, Brazil**
   
@@ -41,9 +41,7 @@
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 
 <h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeffymesquita&show_icons=true&theme=dark"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffymesquita&theme=dark"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffymesquita&layout=compact&theme=dark"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffymesquita&theme=react"/>
 
 <br>
 
