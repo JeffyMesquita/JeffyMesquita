@@ -1,6 +1,6 @@
 # :desktop_computer: Olá, seja bem vindo ao meu Github! :hugs:
 
-<p align="right">👋 Hola, I'm Jeferson Mesquita</p>
+<p align="left">👋 Hola, I'm Jeferson Mesquita</p>
 
 - 🌍 I'm based in **Bebedouro - São Paulo, Brazil**
   
